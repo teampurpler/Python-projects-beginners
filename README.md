@@ -1,3 +1,3 @@
-# beginner-projects
+# beginner-projects-Python
 
-Hello
+Improving Python skills by following along with these project tutorials =)
